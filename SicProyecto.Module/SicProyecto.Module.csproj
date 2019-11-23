@@ -91,6 +91,37 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessObjects\ChocoloatCode\CatalogoCuentas.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\CatalogoCuentas.Designer.cs">
+      <DependentUpon>CatalogoCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\ChocoloatCode\EstadoDeResultado.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\EstadoDeResultado.Designer.cs">
+      <DependentUpon>EstadoDeResultado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\ChocoloatCode\Parametros.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\Parametros.Designer.cs">
+      <DependentUpon>Parametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\ChocoloatCode\PartidaContable.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\PartidaContable.Designer.cs">
+      <DependentUpon>PartidaContable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\ChocoloatCode\PartidaContableDetalle.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\PartidaContableDetalle.Designer.cs">
+      <DependentUpon>PartidaContableDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\ChocoloatCode\SaldoCuentas.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\SaldoCuentas.Designer.cs">
+      <DependentUpon>SaldoCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\ChocoloatCode\SicEnum.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\TipoPartida.cs" />
+    <Compile Include="BusinessObjects\ChocoloatCode\TipoPartida.Designer.cs">
+      <DependentUpon>TipoPartida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\enum.cs" />
+    <Compile Include="BusinessObjects\SicEnum.cs" />
     <Compile Include="DatabaseUpdate\Updater.cs" />
     <Compile Include="Module.cs">
       <SubType>Component</SubType>
@@ -108,6 +139,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="BusinessObjects\Chocoloat.xpo" />
+    <None Include="BusinessObjects\Chocoloat.xpo.diagram">
+      <DependentUpon>Chocoloat.xpo</DependentUpon>
+    </None>
     <None Include="DatabaseUpdate\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>

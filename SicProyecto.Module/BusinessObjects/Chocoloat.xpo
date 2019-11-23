@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2793f3a2-ca05-4a20-9c5e-c021bfcdbbc3" namespace="SicProyecto.Module.BusinessObjects.Chocoloat" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="a43bd1dc-facb-43d1-b469-8322dd39bccf">
+      <xpObject Id="7b8c900c-61c6-4565-a625-8ab30ff96150" name="CatalogoCuentas" baseClass="XPObject" userFileName="CatalogoCuentas" designerFileName="CatalogoCuentas.Designer" className="CatalogoCuentas" virtualName="CatalogoCuentas">
+        <fields>
+          <generalXpObjectHasFields Id="da372f32-6ed9-4426-934c-e8b8a690faea">
+            <field Id="3df123ac-739c-44b1-b21b-1689d0137b28" name="CuentaContable" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7b96a812-3cd8-4e81-80de-8e8a0e8a86a9">
+            <field Id="40db5c90-eb69-4f5c-851b-57349ce1bae0" name="Nombre" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7763bab7-af8a-41b1-a503-93ac94177427">
+            <field Id="d074e6dd-a1ea-4d18-948c-561739731e18" name="CuentaPadre" virtualColumnType="CatalogoCuentas" logicalType="CatalogoCuentas" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7f5fba2c-4b91-4187-8da8-facf59b31512">
+            <field Id="a126d7fc-bd21-4d50-8311-285ce137d3fa" name="TipoCuenta" columnType="TimeSpan" virtualColumnType="Module.BusinessObjects.SicEnum.TipoCuenta" logicalType="Module.BusinessObjects.SicEnum.TipoCuenta" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3e48b09d-d0a5-430d-be41-7faefedac3b6">
+            <field Id="6d549b5e-055c-4dfa-89cd-4ad3658d969a" name="Saldo" virtualColumnType="Module.BusinessObjects.SicEnum.Saldo" logicalType="Module.BusinessObjects.SicEnum.Saldo" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="559ccaeb-1e93-4524-9c20-e7fe0b578778">
+            <field Id="c8ba9a3a-46ea-417b-8c99-9244b375ad7a" name="Rubro" virtualColumnType="Module.BusinessObjects.SicEnum.RubrosContables" logicalType="Module.BusinessObjects.SicEnum.RubrosContables" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="3685893e-35a6-4484-b215-920cb7e9ccce" sourceCollectionName="CatalogoCuentasCollection" name="CatalogoCuentasReferencesCatalogoCuentas" targetFieldName="CuentaPadre">
+            <xpObjectMoniker Id="7b8c900c-61c6-4565-a625-8ab30ff96150" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="4d349d0a-5d2f-4288-a277-e91c20127f26">
+            <collectionField Id="1f71ab5d-967c-4c8c-96bc-c5d3349f2c16" name="CatalogoCuentasCollection" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="30d75959-f634-4384-b72f-d36f4d2b1bdc">
+      <xpObject Id="8e41bd0b-f40e-4cc7-9bb3-d9944145a369" name="PartidaContable" baseClass="XPObject" userFileName="PartidaContable" designerFileName="PartidaContable.Designer" className="PartidaContable" virtualName="PartidaContable">
+        <fields>
+          <generalXpObjectHasFields Id="39015fd9-52e6-4859-a7f9-44f52b29cfaf">
+            <field Id="6d608a3f-f677-4f5f-9476-f696b04f8852" name="Numero" columnType="Int32" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a2dc8fc5-21fa-438b-9366-94d063ce6512">
+            <field Id="2e3f594a-42c4-4191-8e12-7a3d1cbee8eb" name="NumeroMayorizacion" columnType="Int64" virtualColumnType="Int64" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6e68f8ca-c636-466a-8398-3b2de909ea11">
+            <field Id="3ee1ed66-b47a-4719-b57a-28c76a13b1c4" name="Fecha" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7cbc63d2-c909-49fd-9ba0-6ebb7d7a0494">
+            <field Id="374191a2-7ee5-4a4e-8c16-cb03f34d18c9" name="Estatus" virtualColumnType="Module.BusinessObjects.SicEnum.EstadoPartidaContable" logicalType="Module.BusinessObjects.SicEnum.EstadoPartidaContable" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="27982c68-45cd-499f-afe9-7cd955c62f97">
+            <field Id="d647199c-5c72-46d5-b6bb-a03e7e5c5a59" name="Tipo" virtualColumnType="TipoPartida" logicalType="TipoPartida" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9d7997fd-dade-47e8-9228-f7fad9b0778b">
+            <field Id="1005a7eb-6f98-47ab-89ba-9ed9550b1ef0" name="Concepto" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7d061733-7792-4635-9431-8d4bd0ebf744">
+            <field Id="e3a5cafc-4a69-4f57-a168-6ba449ee4952" name="TotalCargo" columnType="Decimal" virtualColumnType="Decimal" dbType="(18,8)" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4d4f98ae-6231-443d-acf5-c4870160b4a0">
+            <field Id="0bafa31c-a20c-4a5f-81f4-94412a0b95e5" name="TotalAbono" columnType="Decimal" virtualColumnType="Decimal" dbType="(18,8)" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="297f34c3-4563-42f6-aed7-6e06135b7faf">
+            <field Id="1ecf8810-6dde-4f34-8e53-53003afaf4d7" name="Periodo" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9049789d-81e9-47ab-af43-6001831535c4">
+            <field Id="2c4472e3-e483-44f8-a71f-5f78ad31761f" name="NumeroReferencia" columnType="Int64" virtualColumnType="Int64" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e52198ff-a8a6-472f-8c3a-75a1501443ec">
+            <field Id="01a97517-03ec-4437-85e3-0d3df2081a07" name="FechaRegistro" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c468308d-87ed-44f0-8bcf-2acb0d1e340f">
+            <field Id="fc441f33-6c0e-46a8-a1f7-03e6909ff061" name="TipoPartida" virtualColumnType="Module.BusinessObjects.SicEnum.TipoPartida" logicalType="Module.BusinessObjects.SicEnum.TipoPartida" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="f633e265-4e67-4d87-a341-b62f253b687a" sourceCollectionName="PartidaContableDetalles" name="PartidaContableDetalleReferencesPartidaContable" targetFieldName="PartidaContable">
+            <xpObjectMoniker Id="c1bff901-efdf-4c90-ac02-f05c132e4b25" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="9f2553e8-67f3-44c5-9bb9-88d12a5213dd">
+            <collectionField Id="480d80e4-a6c7-4d05-beb9-0d8d1b1395c8" name="PartidaContableDetalles" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="36c8f25a-df1f-4bb4-8aa9-c2993809c467">
+      <xpObject Id="0296f168-206f-4cf3-8099-977a580842f6" name="TipoPartida" baseClass="XPObject" userFileName="TipoPartida" designerFileName="TipoPartida.Designer" className="TipoPartida" virtualName="TipoPartida">
+        <fields>
+          <generalXpObjectHasFields Id="e081ddde-61ff-4ba5-8be1-50c599e690d3">
+            <field Id="e112c169-6fc4-42f1-aed0-ec26118933c9" name="Nombre" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c5987b45-bf43-428e-85af-7efdea7c2542">
+            <field Id="ad1af047-99ba-4cc4-b0be-eb961de2b3ff" name="Descripcion" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="189cf068-a4a3-444e-9605-a45c8761c9db">
+            <field Id="335bbc7b-f35a-4738-884d-cbfdc4aa99a9" name="Defecto" columnType="Boolean" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="72499943-36ad-4813-953d-07f669e9ddea">
+      <xpObject Id="c1bff901-efdf-4c90-ac02-f05c132e4b25" name="PartidaContableDetalle" baseClass="XPObject" userFileName="PartidaContableDetalle" designerFileName="PartidaContableDetalle.Designer" className="PartidaContableDetalle" virtualName="PartidaContableDetalle">
+        <fields>
+          <generalXpObjectHasFields Id="549f6a9b-1b15-42dc-9a84-6d0511b7bda5">
+            <field Id="bc1890cf-03e0-42f0-bb3a-e87bc4b3c62a" name="PartidaContable" virtualColumnType="PartidaContable" logicalType="PartidaContable" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="8be734ce-307f-493e-a9a7-0f2b2c3de112">
+            <field Id="400b736c-1ddb-4c80-a5c3-5a4608d84566" name="CuentaContable" virtualColumnType="CatalogoCuentas" logicalType="CatalogoCuentas" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="507fd55f-bbbc-4913-b565-a3724cad352e">
+            <field Id="f766321b-7246-4578-a184-88ddbafe6a01" name="Concepto" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="353a4d4e-008a-49e1-9b96-4bf00d476880">
+            <field Id="49740074-eabe-4aca-94a8-2f9bf1024480" name="Cargo" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="18f0485d-cbd5-4617-b007-6c347c41e0a1">
+            <field Id="18549553-4c9d-41b0-9ea7-bb2be3b844e8" name="Abono" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="d4b9dbfb-66a8-44cf-a6e1-63faa2fe0c12">
+      <xpObject Id="9ef14d40-9beb-4e90-be26-b93db828fb4e" name="SaldoCuentas" baseClass="XPObject" userFileName="SaldoCuentas" designerFileName="SaldoCuentas.Designer" className="SaldoCuentas" virtualName="SaldoCuentas">
+        <fields>
+          <generalXpObjectHasFields Id="05b26213-6ab1-4b77-b8d1-8f23a5ffd460">
+            <field Id="9dfe4a5a-0845-4f70-ba27-3de07a29c3df" name="FechaRegistro" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="35d4067a-c556-446a-ba1a-95c9657b6645">
+            <field Id="9a8a4393-7c8c-471f-bdfd-3f8e94335cdd" name="Cuenta" virtualColumnType="CatalogoCuentas" logicalType="CatalogoCuentas" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4dc4c1f6-dcc9-4fb3-8e42-1ea9d8d563eb">
+            <field Id="8c22ae80-ba41-437b-ae89-edc5db44b3e9" name="SaldoInicial" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="18d37d59-9573-4377-b495-a619278150df">
+            <field Id="f16b160b-ebc2-4bd4-8fd3-159500880ba4" name="Cargo" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="dd00643f-7c15-4b49-b82c-478e7f271f5e">
+            <field Id="53c5fb33-c801-471b-88eb-230ffb36aee8" name="Abono" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="34675a21-f003-4298-bc41-baffe689252a">
+            <field Id="3943106f-44d3-4901-94bb-e2eca58f2cba" name="SaldoFinal" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a86d0229-848c-4d5e-963f-ca3ba28bc370">
+            <field Id="28af52a1-a5bd-4b64-b910-84a1655573de" name="SaldoCuentaPadre" virtualColumnType="SaldoCuentas" logicalType="SaldoCuentas" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="964f215a-73d3-4f3d-a6a5-fabab983604c">
+            <field Id="bd4e9e0b-1f36-4caa-bf23-8916b0e7e8dc" name="PeriodoContable" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="6ddc03e8-cff8-4597-9bc0-8defc83855d4" sourceCollectionName="SaldoCuentasCollection" name="SaldoCuentasReferencesSaldoCuentas" targetFieldName="SaldoCuentaPadre">
+            <xpObjectMoniker Id="9ef14d40-9beb-4e90-be26-b93db828fb4e" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="6960aa45-8d7d-4711-8719-f0d9b09eb91c">
+            <collectionField Id="06e78be4-37ec-4f75-b91e-bd315e50d4a3" name="SaldoCuentasCollection" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1ac3ceeb-b7ac-4ed0-a73b-e7430dfc73b7">
+      <xpObject Id="80987a97-177b-4404-b407-89e4a4350d91" name="Parametros" baseClass="XPObject" userFileName="Parametros" designerFileName="Parametros.Designer" className="Parametros" virtualName="Parametros">
+        <fields>
+          <generalXpObjectHasFields Id="eb28ba1f-6370-4998-956a-8165ab25a31e">
+            <field Id="6a5beefa-8fa0-41a3-96a9-8b142c09de19" name="IndiceCuentaGastos" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="dafbc35d-159d-43fc-a9ec-65d2f5c6fb0b">
+            <field Id="187d3157-85b9-4ea6-b283-9ebbc1d3e340" name="IndiceCuentaIngresos" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7cb05bc3-1c93-403c-9eab-64dbd11a3e57">
+            <field Id="3d39e01e-05cc-4bc6-a1e3-9568deedd118" name="CuentaPerdidaGanancia" virtualColumnType="CatalogoCuentas" logicalType="CatalogoCuentas" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="b1506b72-a5c9-4d92-84b3-5c32f3044289" sourceCollectionName="EstadoDeResultadoes" name="EstadoDeResultadoReferencesParametros" targetFieldName="Parametro">
+            <xpObjectMoniker Id="0df7a1b9-9acb-46b0-ba61-7b30b3d62411" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="9a57e102-c9f3-4050-b4ae-c234e41ec690">
+            <collectionField Id="e4af5eeb-4ea7-4f30-a97a-190897df4f93" name="EstadoDeResultadoes" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="2384ee9d-2e10-4415-aa9e-3f5dd26c1d73">
+      <xpObject Id="0df7a1b9-9acb-46b0-ba61-7b30b3d62411" name="EstadoDeResultado" baseClass="XPObject" userFileName="EstadoDeResultado" designerFileName="EstadoDeResultado.Designer" className="EstadoDeResultado" virtualName="EstadoDeResultado">
+        <fields>
+          <generalXpObjectHasFields Id="f192347d-3822-465d-8a6c-09be9f25426e">
+            <field Id="fe19c750-5c88-48a8-952f-264ce4fb24fa" name="Parametro" virtualColumnType="Parametros" logicalType="Parametros" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c0b597e7-a69f-46fb-bd49-6ef92cc7288f">
+            <field Id="cdf8f749-f4ba-41f2-8ebd-1141efb2eed0" name="Cuenta" virtualColumnType="CatalogoCuentas" logicalType="CatalogoCuentas" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d4382c60-47c5-4d5d-a7ac-07721d574ed3">
+            <field Id="2cbede85-5c8b-4cc7-a3d0-71b6331c98a4" name="Tipo" virtualColumnType="Module.BusinessObjects.SicEnum.TipoDetalleEstadoFinanciero" logicalType="Module.BusinessObjects.SicEnum.TipoDetalleEstadoFinanciero" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+  <externalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="5c0c7324-d3f7-4ca7-8f2c-8c30a0e8f03b">
+      <externalType Id="3a2f02fc-6c7c-4848-bd14-0f6d4e57853e" name="RubrosContables" namespace="Module.BusinessObjects.SicEnum" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="8900690e-720c-4f47-bc4e-cc35d7cfd31a">
+      <externalType Id="bd903bde-8646-4d15-b5e6-674c59a133b7" name="Saldo" namespace="Module.BusinessObjects.SicEnum" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="92c14fe0-a269-4192-8b84-61a46f717b3d">
+      <externalType Id="8329e885-274a-4eff-b07a-95cca7e72df4" name="TipoCuenta" namespace="Module.BusinessObjects.SicEnum" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="7398836e-a735-4e96-a8f7-25e49636a7a2">
+      <externalType Id="34553191-201b-4016-ad40-55f771ce6b39" name="EstadoPartidaContable" namespace="Module.BusinessObjects.SicEnum" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="99437482-31f9-4a4b-9443-8e87921e7ab7">
+      <externalType Id="d9e92939-1f27-463a-ba5a-8bd46fbfedec" name="TipoPartida" namespace="Module.BusinessObjects.SicEnum" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="a92f88a9-8360-47c1-8268-9da048755278">
+      <externalType Id="44ef6be8-f6bd-4e60-ae89-6b7cb1800aa4" name="TipoDetalleEstadoFinanciero" namespace="Module.BusinessObjects.SicEnum" />
+    </dataBaseObjectModelHasExternalTypes>
+  </externalTypes>
+</dataBaseObjectModel>
